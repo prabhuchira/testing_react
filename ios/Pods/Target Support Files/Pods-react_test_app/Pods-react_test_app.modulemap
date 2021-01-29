@@ -1,6 +1,0 @@
-module Pods_react_test_app {
-  umbrella header "Pods-react_test_app-umbrella.h"
-
-  export *
-  module * { export * }
-}
